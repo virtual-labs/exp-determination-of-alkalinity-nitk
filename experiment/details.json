@@ -1,0 +1,64 @@
+{
+
+   "details": [
+       {
+			"Experiment": "Determination of Alkalinity in Water",
+			"Lab": "Environmental Engineering",
+			"Discipline": "Civil Engineering",
+			"Technology": "HTML, Javascript, CSS, JQuery, Inkscape"
+       }
+   ],
+
+   "developer": [
+       {
+      "Developer": "Dr. Pruthviraj U",
+      "Institute": "National Institute of Technology Karnataka, Surathkal",
+      "InstituteAcronym": "NITK, Surathkal"
+       }
+   ],
+
+   "contributer": [
+       {
+			"Contributer": "Anusha B Salian",
+      "Institute": "National Institute of Technology Karnataka, Surathkal",
+			"InstituteAcronym": "NITK, Surathkal"
+       },
+
+       {
+			"Contributer": "Swathi Shetty",
+			"Institute": "National Institute of Technology Karnataka, Surathkal",
+			"InstituteAcronym": "NITK, Surathkal"
+       },
+
+       {
+			"Contributer": "Aishwarya Shetty",
+			"Institute": "National Institute of Technology Karnataka, Surathkal",
+			"InstituteAcronym": "NITK, Surathkal"
+       },
+
+       {
+			"Contributer": "Aishwarya Hegde",
+			"Institute": "National Institute of Technology Karnataka, Surathkal",
+			"InstituteAcronym": "NITK, Surathkal"
+       },
+
+       {
+			"Contributer": "Gautam Anand (17CV213)",
+			"Institute": "National Institute of Technology Karnataka, Surathkal",
+			"InstituteAcronym": "NITK, Surathkal"
+       },
+
+			 {
+		 	 "Contributer": "Ravi Kumar Rahul (17CV136)",
+		 	 "Institute": "National Institute of Technology Karnataka, Surathkal",
+		 	 "InstituteAcronym": "NITK, Surathkal"
+			 },
+
+			 {
+		   "Contributer": "Sandesh Mantri (17CV222)",
+		   "Institute": "National Institute of Technology Karnataka, Surathkal",
+		   "InstituteAcronym": "NITK, Surathkal"
+			 }
+   ]
+
+}
