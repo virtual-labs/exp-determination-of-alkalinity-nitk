@@ -4,9 +4,9 @@
     <th style="width:35%;">Contributors list</th>
   </tr>
   <tr style="background-color:transparent;">
-    <td style="width:65%;">1. IS 3025-23 (Part 23) - 1986: Methods of Sampling and Test (physical and chemical) for Water </br>and Wastewater, Alkalinity, First Revision.</br></br>
-    2. AWWA, WEF, APHA, 1998, Standard Methods for the Examination of Water and Wastewater </br>(Method: 5210B,5-day BOD).</br></br>
-    3. Sawyer, C.N., McCarty, P.L., and Parkin, G.F. 2000. Chemistry for Environmental Engineering 4th Edition. </br>Tata McGraw-Hill Publishing Company Limited.</td>
+    <td style="width:65%;">1. IS 3025-23 (Part 23) - 1986: Methods of Sampling and Test (physical and chemical) for Water and Wastewater, Alkalinity, First Revision.</br></br>
+    2. AWWA, WEF, APHA, 1998, Standard Methods for the Examination of Water and Wastewater (Method: 5210B,5-day BOD).</br></br>
+    3. Sawyer, C.N., McCarty, P.L., and Parkin, G.F. 2000. Chemistry for Environmental Engineering 4th Edition. Tata McGraw-Hill Publishing Company Limited.</td>
     <td style="width:35%;">Developer : Dr. Pruthviraj U | NITK</br></br>
     Contributors :
     <ul style="list-style-type: none;">
