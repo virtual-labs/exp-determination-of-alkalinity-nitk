@@ -1,0 +1,42 @@
+[{
+	"question": "Higher the alkalinity in water easier it is for pH change.",
+	"answers": {
+		"a": "False",
+		"b": "True"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Excessive alkalinity level in human body can ",
+	"answers": {
+		"a": "Expel the unwanted pathogens in the bloodstream",
+		"b": "Cause skin irritations",
+		"c": "Lead to gastrointestinal issues",
+		"d": "All of the above"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "Data obtained from alkalinity is used for following engineering practices. ",
+	"answers": {
+		"a": "Chemical coagulation of water and waste water",
+		"b": "Water softening",
+		"c": "Corrosion control",
+		"d": "All of the above"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "Majority of mineral water supplied is mostly",
+	"answers": {
+		"a": "Acidic",
+		"b": "Neutral",
+		"c": "Alkaline",
+		"d": "None of the above"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "Alkalinity measurements are used in the interpretation and control of waste water treatment process.",
+	"answers": {
+		"a": "False",
+		"b": "True"
+	},
+	"correctAnswer": "b"
+}]

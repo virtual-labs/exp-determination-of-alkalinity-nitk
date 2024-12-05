@@ -1,0 +1,44 @@
+[{
+	"question": "Permissible limit of alkalinity in drinking water is ",
+	"answers": {
+		"a": "50mg/l",
+		"b": "300mg/l",
+		"c": "20-200mg/l",
+		"d": "100mg/l"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "Alkalinity in waste water is useful because it provides buffering to resist changes in pH value. ",
+	"answers": {
+		"a": "True",
+		"b": "False"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Alkalinity can also be related to hardness because of presence of ",
+	"answers": {
+		"a": "CaCO<sub>3</sub>",
+		"b": "MgCO<sub>3</sub>",
+		"c": "Na<sub>2</sub>CO<sub>3</sub>",
+		"d": "K<sub>2</sub>CO<sub>3</sub>"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Alkalinity is important in aquatic life because ",
+	"answers": {
+		"a": "It helps water to remain warm",
+		"b": "It helps water to remain cold",
+		"c": "It buffers against rapid pH change",
+		"d": "None of the above"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "An alkalinity test measures the level of ",
+	"answers": {
+		"a": "Carbonates only",
+		"b": "Hydroxides only",
+		"c": "Bicarbonates, carbonates, and hydroxides",
+		"d": "None of the above"
+	},
+	"correctAnswer": "c"
+}]
