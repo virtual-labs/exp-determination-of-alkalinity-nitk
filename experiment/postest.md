@@ -1,6 +1,6 @@
 ## Post test
 <br>
-Q 1. Higher is the alkalinity in water easier it is for pH change. <br>
+Q 1. Higher the alkalinity in water easier it is for pH change. <br>
 a. True<br>
 <b>b. False<br></b><br>
 
