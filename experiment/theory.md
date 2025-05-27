@@ -1,6 +1,6 @@
 ### INTRODUCTION<br>
 
-<p style="text-indent:50px; text-align:justify;">Alkalinity is the presence of sufficient alkaline ions in water. The absence of alkalinity makes the water acidic. Water is said to be alkaline when pH of water is above 7.00. The determination of alkalinity is very useful in water and waste water because it provides buffering to resist changes in pH value. The alkalinity and acidity in water usually changes in natural waters with large algal growth. The alkalinity of natural waters is primarily due to the salts of week acids and bicarbonates represent the major form of alkalinity. Alkalinity can be expressed as follows:</p>
+<p style="text-indent:50px; text-align:justify;">Alkalinity is the presence of sufficient alkaline ions in water. The absence of alkalinity makes the water acidic. Water is said to be alkaline when pH of water is above 7.00. The determination of alkalinity is very useful in water and waste water because it provides buffering to resist changes in pH value. The alkalinity and acidity in water usually changes in natural waters with large algal growth. The alkalinity of natural waters is primarily due to the salts of weak acids and bicarbonates represent the major form of alkalinity. Alkalinity can be expressed as follows:</p>
 
 <p align="center">Alkalinity (mol/l) = [HCO<sub>3</sub><sup>-</sup>] + 2[CO<sub>3</sub> <sup>2-</sup>] + [OH<sup>-</sup>] – [H<sup>+</sup>]</p>
 
