@@ -1,0 +1,205 @@
+
+/home/runner/work/exp-determination-of-alkalinity-nitk/exp-determination-of-alkalinity-nitk/experiment/simulation/js/aw.js
+     2:5   warning  'a' is assigned a value but never used      no-unused-vars
+     2:7   warning  'b' is defined but never used               no-unused-vars
+     2:9   warning  'c' is assigned a value but never used      no-unused-vars
+     9:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+    10:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+    11:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+    12:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+    13:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+    14:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+    19:1   warning  '$' is not defined                          no-undef
+    21:2   warning  '$' is not defined                          no-undef
+    26:10  warning  'navNext' is defined but never used         no-unused-vars
+    28:6   warning  'temp' is not defined                       no-undef
+    28:13  warning  'temp' is not defined                       no-undef
+    28:22  warning  'temp' is not defined                       no-undef
+    30:36  warning  'temp' is not defined                       no-undef
+    32:2   warning  'simsubscreennum' is not defined            no-undef
+    33:35  warning  'simsubscreennum' is not defined            no-undef
+    51:20  warning  'myInt' is not defined                      no-undef
+    65:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+    66:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+    67:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+    68:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+    69:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+    70:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+    74:1   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+    74:3   warning  '$' is not defined                          no-undef
+    78:2   warning  'el' is not defined                         no-undef
+    79:2   warning  'el' is not defined                         no-undef
+    80:2   warning  'el' is not defined                         no-undef
+    81:2   warning  'answer' is not defined                     no-undef
+    81:21  warning  'el' is not defined                         no-undef
+    83:6   warning  'j' is not defined                          no-undef
+    83:10  warning  'j' is not defined                          no-undef
+    83:32  warning  'j' is not defined                          no-undef
+    85:3   warning  'opt' is not defined                        no-undef
+    85:22  warning  'j' is not defined                          no-undef
+    87:3   warning  'el' is not defined                         no-undef
+    88:3   warning  'el' is not defined                         no-undef
+    88:20  warning  'opt' is not defined                        no-undef
+    89:3   warning  'el' is not defined                         no-undef
+    89:14  warning  'opt' is not defined                        no-undef
+    90:3   warning  'answer' is not defined                     no-undef
+    90:22  warning  'el' is not defined                         no-undef
+    91:3   warning  '$' is not defined                          no-undef
+    93:7   warning  '$' is not defined                          no-undef
+   114:5   warning  'simsubscreennum' is not defined            no-undef
+   116:3   warning  '$' is not defined                          no-undef
+   123:5   warning  'simsubscreennum' is not defined            no-undef
+   129:5   warning  'simsubscreennum' is not defined            no-undef
+   142:5   warning  'simsubscreennum' is not defined            no-undef
+   149:5   warning  'simsubscreennum' is not defined            no-undef
+   153:3   warning  'finalValue' is not defined                 no-undef
+   156:5   warning  'simsubscreennum' is not defined            no-undef
+   221:5   warning  'simsubscreennum' is not defined            no-undef
+   225:3   warning  '$' is not defined                          no-undef
+   232:5   warning  'simsubscreennum' is not defined            no-undef
+   238:5   warning  'simsubscreennum' is not defined            no-undef
+   253:5   warning  'simsubscreennum' is not defined            no-undef
+   261:5   warning  'simsubscreennum' is not defined            no-undef
+   266:3   warning  'finalValue' is not defined                 no-undef
+   270:5   warning  'simsubscreennum' is not defined            no-undef
+   334:5   warning  'simsubscreennum' is not defined            no-undef
+   342:5   warning  'simsubscreennum' is not defined            no-undef
+   345:3   warning  'finalValue' is not defined                 no-undef
+   350:5   warning  'simsubscreennum' is not defined            no-undef
+   362:7   warning  'op2' is assigned to itself                 no-self-assign
+   416:5   warning  'simsubscreennum' is not defined            no-undef
+   421:3   warning  '$' is not defined                          no-undef
+   428:5   warning  'simsubscreennum' is not defined            no-undef
+   434:5   warning  'simsubscreennum' is not defined            no-undef
+   440:6   warning  'simsubscreennum' is not defined            no-undef
+   454:5   warning  'simsubscreennum' is not defined            no-undef
+   464:5   warning  'simsubscreennum' is not defined            no-undef
+   466:3   warning  'finalValue' is not defined                 no-undef
+   471:5   warning  'simsubscreennum' is not defined            no-undef
+   533:5   warning  'simsubscreennum' is not defined            no-undef
+   544:10  warning  'checkInference' is defined but never used  no-unused-vars
+   546:6   warning  'str' is defined but never used             no-unused-vars
+   548:5   warning  '$' is not defined                          no-undef
+   568:3   warning  '$' is not defined                          no-undef
+   574:2   warning  '$' is not defined                          no-undef
+   579:3   warning  'myInt' is not defined                      no-undef
+   595:7   warning  'myInt' is not defined                      no-undef
+   607:9   warning  'myInt' is not defined                      no-undef
+   654:19  warning  'myInt' is not defined                      no-undef
+   669:21  warning  'myInt' is not defined                      no-undef
+   681:23  warning  '$' is not defined                          no-undef
+   718:5   warning  'myInt' is not defined                      no-undef
+   721:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   723:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   737:8   warning  '$' is not defined                          no-undef
+   738:8   warning  '$' is not defined                          no-undef
+   739:8   warning  '$' is not defined                          no-undef
+   743:9   warning  'myInt' is not defined                      no-undef
+   755:10  warning  '$' is not defined                          no-undef
+   756:10  warning  '$' is not defined                          no-undef
+   757:10  warning  '$' is not defined                          no-undef
+   766:9   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   767:13  warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   767:15  warning  'myInt' is not defined                      no-undef
+   781:16  warning  '$' is not defined                          no-undef
+   782:16  warning  '$' is not defined                          no-undef
+   783:16  warning  '$' is not defined                          no-undef
+   789:17  warning  'myInt' is not defined                      no-undef
+   801:18  warning  '$' is not defined                          no-undef
+   802:18  warning  '$' is not defined                          no-undef
+   803:18  warning  '$' is not defined                          no-undef
+   819:20  warning  '$' is not defined                          no-undef
+   855:3   warning  'myInt' is not defined                      no-undef
+   870:5   warning  '$' is not defined                          no-undef
+   873:4   warning  'myInt' is not defined                      no-undef
+   889:7   warning  '$' is not defined                          no-undef
+   892:7   warning  'myInt' is not defined                      no-undef
+   904:9   warning  'myInt' is not defined                      no-undef
+   936:19  warning  '$' is not defined                          no-undef
+   939:20  warning  'myInt' is not defined                      no-undef
+   992:4   warning  'myInt' is not defined                      no-undef
+  1052:85  warning  'finalValue' is not defined                 no-undef
+  1074:10  warning  'stepAddBuffer' is defined but never used   no-unused-vars
+  1076:2   warning  '$' is not defined                          no-undef
+  1084:4   warning  'myInt' is not defined                      no-undef
+  1098:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  1100:6   warning  'myInt' is not defined                      no-undef
+  1118:6   warning  'myInt' is not defined                      no-undef
+  1140:10  warning  'myInt' is not defined                      no-undef
+  1162:14  warning  'myInt' is not defined                      no-undef
+  1178:16  warning  'myInt' is not defined                      no-undef
+  1207:21  warning  '$' is not defined                          no-undef
+  1221:8   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  1225:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  1227:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  1229:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  1233:1   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  1240:3   warning  'myInt' is not defined                      no-undef
+  1255:5   warning  '$' is not defined                          no-undef
+  1258:4   warning  'myInt' is not defined                      no-undef
+  1274:7   warning  '$' is not defined                          no-undef
+  1277:7   warning  'myInt' is not defined                      no-undef
+  1289:9   warning  'myInt' is not defined                      no-undef
+  1332:19  warning  '$' is not defined                          no-undef
+  1335:20  warning  'myInt' is not defined                      no-undef
+  1388:10  warning  'refresh' is defined but never used         no-unused-vars
+
+/home/runner/work/exp-determination-of-alkalinity-nitk/exp-determination-of-alkalinity-nitk/experiment/simulation/js/jquerymin.js
+  2:71     warning  'module' is not defined                                                    no-undef
+  2:86     warning  'module' is not defined                                                    no-undef
+  2:863    warning  'b' is assigned a value but never used                                     no-unused-vars
+  2:3050   warning  'r' is assigned a value but never used                                     no-unused-vars
+  2:5376   warning  Unexpected control character(s) in regular expression: \x1f, \x1f          no-control-regex
+  2:5847   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:6101   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:6532   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:6758   warning  Empty block statement                                                      no-empty
+  2:7320   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:9378   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:9688   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:11489  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:12064  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:12102  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:12520  warning  Empty block statement                                                      no-empty
+  2:13134  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:13446  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15271  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15542  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15740  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:16114  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:16815  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:19155  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:19255  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:19315  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:20674  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:21288  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:21399  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:23719  warning  Unnecessary escape character: \/                                           no-useless-escape
+  2:33344  warning  Empty block statement                                                      no-empty
+  2:37050  warning  Unnecessary escape character: \/                                           no-useless-escape
+  2:38265  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:38405  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:39039  warning  Empty block statement                                                      no-empty
+  2:45778  warning  Unnecessary escape character: \/                                           no-useless-escape
+  2:48087  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:49647  warning  Empty block statement                                                      no-empty
+  2:57298  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:59847  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:64132  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:65877  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:65943  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:66247  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:66313  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:66720  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:66997  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:72432  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:74924  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:75645  warning  'l.href' is assigned to itself                                             no-self-assign
+  2:79204  warning  Empty block statement                                                      no-empty
+  2:83243  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:83243  warning  'l' is assigned a value but never used                                     no-unused-vars
+  2:86651  warning  'define' is not defined                                                    no-undef
+  2:86663  warning  'define' is not defined                                                    no-undef
+
+✖ 198 problems (0 errors, 198 warnings)
+
